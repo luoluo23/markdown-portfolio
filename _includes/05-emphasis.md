@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have been using **Python** for three years. And I have personally built a tool to calculate _capital usage of credit exposures_ and reconcile with other data sourses. 
